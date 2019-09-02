@@ -18,21 +18,28 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 ## Description
 
-In this challenge, create a web page that presents a styled list of Star Wars characters. Being able to render out data to a web page is a large part of what JavaScript developers do, this challenge assesses your ability to achieve such a task.
-
-## Self-Study/Essay Questions
-
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+react is a library that hapls us to work with complex data and build small reusable pieces of UI and it produced by facebook.
+
 - [ ] What does it mean to _think_ in react?
+
+    it means to code using React world.
 
 - [ ] Describe state.
 
+State is an implementation of the State pattern in JavaScript.
+
 - [ ] Describe props.
 
+it's a data you can pass through from parent function to child function .
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+side effect is anything that effects the data outside the scope like fething data from api , like this >>>>import react,{useEffect} from "react".
+
 
 ## Project Set Up
 
